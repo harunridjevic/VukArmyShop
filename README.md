@@ -17,19 +17,19 @@ The **VukArmyShop** is a fully custom-built webshop for a military clothing stor
 
 Here’s a sneak peek of how the webshop functions:
 
-![Homepage](gifs/vukarmy-home.gif)
+![Homepage](gifs/home.gif)
 
-Product listing example:
+Product listing and product detail example:
 
-![Product List](gifs/vukarmy-products.gif)
+![Product List](gifs/products.gif)
 
-Product detail with multiple images:
+Info page:
 
-![Product Detail](gifs/vukarmy-detail.gif)
+![Product List](gifs/info.png)
 
 Secret admin panel (shhh 🤫):
 
-![Admin Panel](gifs/vukarmy-admin.gif)
+![Admin Panel](gifs/admin.gif)
 
 ---
 
