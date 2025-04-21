@@ -64,7 +64,7 @@ Secret admin panel (shhh 🤫):
 
 ### 👨‍💼 Created By
 
-This project was developed by **Harry Cashworth**.
+This project was developed by **Harun Riđević**.
 
 ---
 
